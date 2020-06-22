@@ -10,6 +10,7 @@
 * Bit plane slicing
 * Sobel Filter
 * LBP Response
+* Laplacian of Gaussian
 
 More will be added
 
@@ -23,3 +24,7 @@ More will be added
 #### LBP Response
     
     python lbp/lbp_response.py
+    
+#### Laplacian of Gaussian
+
+    python LoG/laplacian_of_gaussian.py --file image_path/img.jpg
